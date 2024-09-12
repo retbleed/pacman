@@ -1,7 +1,9 @@
 package data.entities
 
 data class PlayerEntity (
-    val name: String
+    val name: String,
+    val higscore: Int,
+
 ) {
 
 }
